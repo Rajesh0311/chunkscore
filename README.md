@@ -1,9 +1,4 @@
 # ChunkScore
-![chunk quality](https://ai-badge-generator-five.vercel.app/api/badge/chunkscore/0.92)
-![POPIA](https://ai-badge-generator-five.vercel.app/api/badge/popia/compliant)
-![agent behaviour](https://ai-badge-generator-five.vercel.app/api/badge/agent/monitored)
-![red teamed](https://ai-badge-generator-five.vercel.app/api/badge/red-teamed/Mar-2026)
-![AI readiness](https://ai-badge-generator-five.vercel.app/api/badge/readiness/87)
 
 **The chunk quality auditor for RAG pipelines.**
 
@@ -35,13 +30,11 @@ ChunkScore audits the quality of your document chunks before they hit your vecto
 - API-first with full documentation
 - Webhook support
 
+## Related Tools
+
+- [Context Pre-Flight](https://context-preflight.vercel.app) — audit your context window before inference
+- [AI Badge Generator](https://ai-badge-generator-five.vercel.app) — add AI stack badges to your README
+
 ## Get started
 
 [ragprep.com](https://ragprep.com)
-
-## Badges for your RAG project
-
-Add AI project metadata badges to your own README:
-
-[AI Badge Generator](https://ai-badge-generator-five.vercel.app) — free, no signup.# chunkscore
-The chunk quality auditor for RAG pipelines. Don't Embed Garbage. — ragprep.com

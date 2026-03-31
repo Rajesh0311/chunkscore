@@ -1,4 +1,9 @@
 # ChunkScore
+![chunk quality](https://ai-badge-generator-five.vercel.app/api/badge/chunkscore/0.92)
+![POPIA](https://ai-badge-generator-five.vercel.app/api/badge/popia/compliant)
+![agent behaviour](https://ai-badge-generator-five.vercel.app/api/badge/agent/monitored)
+![red teamed](https://ai-badge-generator-five.vercel.app/api/badge/red-teamed/Mar-2026)
+![AI readiness](https://ai-badge-generator-five.vercel.app/api/badge/readiness/87
 
 **The chunk quality auditor for RAG pipelines.**
 

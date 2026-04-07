@@ -34,6 +34,7 @@ ChunkScore audits the quality of your document chunks before they hit your vecto
 
 - [Context Pre-Flight](https://context-preflight.vercel.app) — audit your context window before inference
 - [AI Badge Generator](https://ai-badge-generator-five.vercel.app) — add AI stack badges to your README
+- [context risk](https://context-preflight.vercel.app/api/badge?risk=low)
 
 ## Get started
 
